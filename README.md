@@ -1,2 +1,8 @@
 # 捕鱼达人
-游戏地址 http://lvxiaodong.sinaapp.com/demo/fish/index.html
+
+#1.0.0
+上传源码
+
+#演示
+ http://lvxiaodong.sinaapp.com/demo/fish/index.html
+
